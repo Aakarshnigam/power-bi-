@@ -25,7 +25,7 @@
 **This dashboard transforms the vast CAERS dataset into actionable insights, serving as a valuable resource for regulatory agencies, manufacturers, and public health professionals. The analyses and visualizations provided contribute to bolstering product safety measures, monitoring industry performance, and safeguarding consumer health.**
 
 
-![Screenshot 2024-05-05 173333](https://github.com/Aakarshnigam/power-bi-/assets/138697476/6e52f2d2-a0a4-44c8-87e9-3964e640b516)
+![Screenshot 2024-05-16 012316](https://github.com/Aakarshnigam/power-bi-/assets/138697476/b80d0707-ae59-4def-b4c3-f75c106cbaa0)
 
 
 
